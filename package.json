@@ -1,8 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Harrison Bourg",
+	"description": "A project that does nothing.",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"node": "^20.2.0"
 	},
 	"main": "server.js",
 	"scripts": {
