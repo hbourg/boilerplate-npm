@@ -1,6 +1,6 @@
 {
-	"author": "Harrison Bourg",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Harrison Bourg",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
